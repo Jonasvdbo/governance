@@ -14,4 +14,4 @@ Guide to these documents:
 * [project-annual-review.md](project-annual-review.md) - annual review process
 * [project-proposal.md](project-proposal.md) - defines proposal process for new projects
 * [project-stages.md](project-stages.md) - defines project stages from Sandbox through Emeritus (based on LF template)
-* [sandbox-requirements.md](sandbox-requirements.md) - guideline for new projects entering at sandbox stage
+* [incubation-requirements.md](incubation-requirements.md) - guideline for new projects entering at sandbox stage
